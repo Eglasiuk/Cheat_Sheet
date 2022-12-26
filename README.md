@@ -17,3 +17,7 @@ I hope aspiring/new Data Analytics /Data Science /Business Intelligence Speciali
 ### Machine Learning
 * [Supervised](Supervised_Machine_Learning_Models.pdf)
 * [Unsupervised](Unsupervised_Machine_Learning_Models.pdf)
+
+### Power Bi
+* [Basic](Power+BI_Cheat+Sheet.pdf)
+* [DAX](Formulas_in_DAX_Cheat_Sheet.pdf)
